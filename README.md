@@ -15,10 +15,8 @@ pip install pyqt5 pyvista pyvistaqt
 Navigate to the directory containing the script and run:
 
 ```bash
-python script_name.py
+python main.py
 ```
-
-Replace `script_name.py` with the actual filename.
 
 ## File Structure
 
